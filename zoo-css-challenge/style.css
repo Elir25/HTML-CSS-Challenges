@@ -117,18 +117,27 @@ footer {
 
 .tigers {
   background-color: #0b3c49;
-  color: #f0e100;
+  color: #a09f91;
 }
 
+.tigers h2 {
+  color: #f5f180;
+}
 .giraffe {
-  background-color: #465775;
-  color: #56e39f;
+  background-color: #483C46;
+  color: #BEEE62;
 }
 
 .giraffe h2 {
-  color: #ef6f6c;
+  color: #F4743B;
+}
+.giraffe h3 {
+  color: rgb(250, 207, 166);
 }
 
+.giraffestext1 {
+  font-size: 25px;
+}
 .card {
   display: inline-block;
   background-color: white;
