@@ -90,7 +90,7 @@ footer {
   border-radius: 50%;
   display: inline-block;
   position: fixed;
-  bottom: 20px;
+  top: 20px;
   right: 20px;
 
   display: flex;
@@ -149,6 +149,9 @@ footer {
   width: 30%;
   border: 1px solid black;
   border-radius: 10px;
+}
+.programs .card {
+  width: 25%;
 }
 
 .card h4 {
@@ -212,5 +215,5 @@ footer {
 /*Programs*/
 
 .programs .card {
-  display: block;
+  display: inline-block;
 }
