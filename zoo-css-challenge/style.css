@@ -6,7 +6,6 @@ header {
   background-color: #211a1d;
   color: #ffffff;
   width: 100%;
-  padding: 20px;
 }
 
 nav {
@@ -71,7 +70,6 @@ footer {
   background-color: #211a1d;
   color: #ffffff;
   width: 100%;
-  padding: 20px;
   display: flex;
   justify-content: space-between;
 }
@@ -201,7 +199,8 @@ footer {
 .membership {
   text-align: center;
   background-color: #fffffc;
-  
+  max-width: 700px;
+  margin: auto;
 }
 
 .membership h2 {
